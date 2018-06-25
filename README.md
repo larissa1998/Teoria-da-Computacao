@@ -2,7 +2,7 @@
 
 O sistema foi realizado em linguagem C++, e o mesmo funciona da seguinte maneira, ele é dividido em 3 arquivos, sendo eles dois arquivos (.cpp) e um header (.hpp), para melhor organização e entendimento do código em sí.
 
-Onde no arquivo main.cpp possui uma entrada (fita finita que será percorrida), cujo o alfabeto {a,...z}, sendo ela uma cadeia de símbolos, conforme o que o usuário digitar.Essa cadeia de símbolos possui o comprimento de entrada |250|, e o comprimento do prefixo, sufixo e subpalavra |30|.
+Onde no arquivo main.cpp possui uma entrada (fita finita que será percorrida), cujo o alfabeto {a,...z}, sendo ela uma cadeia de símbolos, conforme o que o usuário digitar. Essa cadeia de símbolos possui o comprimento de entrada |250|, e o comprimento do prefixo, sufixo e subpalavra |30|.
 
 Assim, no arquivo casamento.cpp teremos as funções StartsWith, no qual irá receber a entrada e o prefixo digitado, e irá percorrer o prefixo da palavra escolhida até encontrar o desejado, ou seja o StartsWith irá encontrar somente o começo da palavra.
 
