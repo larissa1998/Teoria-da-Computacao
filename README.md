@@ -1,4 +1,4 @@
-# Teoria-da-Computacao (Implementações realizadas na aula de Teoria da Computação)
+# Teoria-da-Computacao Casamento de Strings
 
 O sistema foi realizado em linguagem C++, e o mesmo funciona da seguinte maneira, ele é dividido em 3 arquivos, sendo eles dois arquivos (.cpp) e um header (.hpp), para melhor organização e entendimento do código em sí.
 
